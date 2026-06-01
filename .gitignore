@@ -1,0 +1,21 @@
+# Unreal build output
+Project/Binaries/
+Project/Build/
+Project/Intermediate/
+Project/Saved/
+Project/DerivedDataCache/
+Project/FileOpenOrder/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.pdb
+*.exp
+*.lib
+
+# Unreal packaged builds
+*.pak
+*.sig
